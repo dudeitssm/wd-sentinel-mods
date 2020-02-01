@@ -1,5 +1,4 @@
-# wd-sentinel-dx4000
-WD Sentinel DX4000 related mods and custom PCBs
+WD Sentinel NAS related mods and custom PCBs
 
 
-Contains custom PCBs, mods, etc, relating to the WD Sentinel DX4000 NAS
+Contains custom PCBs, mods, guides, etc, relating to the WD Sentinel series NAS
