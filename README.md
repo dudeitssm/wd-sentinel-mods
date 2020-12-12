@@ -10,7 +10,8 @@ How to get started?
 3. Use OSHPark or any fabhouse to print out the ".kicad_pcb" PCBs
 
 Shoot me an email or open an issue if you have questions: moltensolderlabs AT pm.me
-Other projects on my site: moltensolderlabs.com
+
+Other projects are on my site: moltensolderlabs.com
 
 Everything licensed as CC0. Do whatever you want with these files.
 
