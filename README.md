@@ -12,6 +12,16 @@ How to get started?
 Shoot me an email or open an issue if you have questions: moltensolderlabs AT pm.me
 Other projects on my site: moltensolderlabs.com
 
-Everything licensed as CC0. Do whatever you want with these file.
+Everything licensed as CC0. Do whatever you want with these files.
 
 Enjoy!
+
+![image](https://raw.githubusercontent.com/dudeitssm/wd-sentinel-mods/master/pics_and_schematics/vga_usb_serial_combo_pcb_hookup.jpg)
+
+![image](https://raw.githubusercontent.com/dudeitssm/wd-sentinel-mods/master/pics_and_schematics/vga_usb_serial_combo_pcb_gui_fedora_install.jpg)
+
+![image](https://raw.githubusercontent.com/dudeitssm/wd-sentinel-mods/master/pics_and_schematics/vga_usb_serial_combo_pcb_populated_front.jpg)
+
+![image](https://raw.githubusercontent.com/dudeitssm/wd-sentinel-mods/master/pics_and_schematics/vga_usb_serial_combo_pcb_populated_rear.jpg)
+
+![image](https://raw.githubusercontent.com/dudeitssm/wd-sentinel-mods/master/pics_and_schematics/vga_usb_serial_combo_pcb_dx4000_mounted.jpg)
