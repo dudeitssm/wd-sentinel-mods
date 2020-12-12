@@ -11,11 +11,9 @@ How to get started?
 
 Shoot me an email or open an issue if you have questions: moltensolderlabs AT pm.me
 
-Other projects are on my site: moltensolderlabs.com
-
 Everything licensed as CC0. Do whatever you want with these files.
 
-Enjoy!
+Enjoy! Other projects are available on my site: moltensolderlabs.com
 
 ![image](https://raw.githubusercontent.com/dudeitssm/wd-sentinel-mods/master/pics_and_schematics/vga_usb_serial_combo_pcb_hookup.jpg)
 
