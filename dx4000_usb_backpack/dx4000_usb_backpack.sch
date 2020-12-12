@@ -1,0 +1,188 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr USLetter 11000 8500
+encoding utf-8
+Sheet 1 1
+Title "DX4000 USB Backpack"
+Date "2020-01-31"
+Rev "1.1"
+Comp "Molten Solder Labs"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+Text Label 4850 3700 0    50   ~ 0
+5V_A
+Wire Wire Line
+	4800 3700 4800 3800
+Wire Wire Line
+	4850 3700 4800 3700
+Wire Wire Line
+	6900 4500 6750 4500
+Wire Wire Line
+	4800 3900 4800 4000
+Wire Wire Line
+	4800 3900 4850 3900
+Text Label 4850 3900 0    50   ~ 0
+5V_B
+Wire Wire Line
+	6100 4500 6250 4500
+Wire Wire Line
+	6900 4400 6750 4400
+Wire Wire Line
+	6900 4300 6750 4300
+$Comp
+L power:GND #PWR02
+U 1 1 5E193E63
+P 7200 4200
+F 0 "#PWR02" H 7200 3950 50  0001 C CNN
+F 1 "GND" V 7205 4072 50  0000 R CNN
+F 2 "" H 7200 4200 50  0001 C CNN
+F 3 "" H 7200 4200 50  0001 C CNN
+	1    7200 4200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7200 4200 6750 4200
+NoConn ~ 6750 4100
+NoConn ~ 6250 4100
+$Comp
+L power:GND #PWR01
+U 1 1 5E1946CF
+P 5800 4200
+F 0 "#PWR01" H 5800 3950 50  0001 C CNN
+F 1 "GND" V 5805 4072 50  0000 R CNN
+F 2 "" H 5800 4200 50  0001 C CNN
+F 3 "" H 5800 4200 50  0001 C CNN
+	1    5800 4200
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	6100 4400 6250 4400
+Wire Wire Line
+	6100 4300 6250 4300
+Wire Wire Line
+	5800 4200 6250 4200
+Text Label 4850 4100 0    50   ~ 0
+USB_A-
+Wire Wire Line
+	4850 4100 4800 4100
+$Comp
+L Connector_Generic:Conn_02x05_Odd_Even J2
+U 1 1 5E192648
+P 6550 4300
+F 0 "J2" H 6600 3875 50  0000 C CNN
+F 1 "J15_PCB" H 6600 3966 50  0000 C CNN
+F 2 "custom_footprints:DX4000_J15_Footprint" H 6550 4300 50  0001 C CNN
+F 3 "~" H 6550 4300 50  0001 C CNN
+	1    6550 4300
+	-1   0    0    1   
+$EndComp
+Text Label 4850 4200 0    50   ~ 0
+USB_A+
+Wire Wire Line
+	4850 4200 4800 4200
+Text Label 4850 4500 0    50   ~ 0
+USB_B-
+Text Label 4850 4600 0    50   ~ 0
+USB_B+
+Wire Wire Line
+	4850 4600 4800 4600
+Wire Wire Line
+	4850 4500 4800 4500
+$Comp
+L power:GND #PWR04
+U 1 1 5E19B7C4
+P 4850 4700
+F 0 "#PWR04" H 4850 4450 50  0001 C CNN
+F 1 "GND" V 4855 4572 50  0000 R CNN
+F 2 "" H 4850 4700 50  0001 C CNN
+F 3 "" H 4850 4700 50  0001 C CNN
+	1    4850 4700
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4850 4700 4800 4700
+Wire Wire Line
+	4800 4800 4800 4700
+Wire Wire Line
+	4800 4400 4800 4300
+$Comp
+L power:GND #PWR03
+U 1 1 5E19CC9F
+P 4850 4300
+F 0 "#PWR03" H 4850 4050 50  0001 C CNN
+F 1 "GND" V 4855 4172 50  0000 R CNN
+F 2 "" H 4850 4300 50  0001 C CNN
+F 3 "" H 4850 4300 50  0001 C CNN
+	1    4850 4300
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4850 4300 4800 4300
+Wire Notes Line
+	5450 3650 5450 4650
+Wire Notes Line
+	7550 4650 7550 3650
+Text Notes 5900 3750 0    50   ~ 0
+DO NOT MODIFY ANYTHING HERE
+Wire Notes Line
+	5450 4650 7550 4650
+Wire Notes Line
+	5450 3650 7550 3650
+Wire Notes Line
+	5450 3800 7550 3800
+$Comp
+L power:PWR_FLAG #FLG0101
+U 1 1 5E1A3CCE
+P 4800 5050
+F 0 "#FLG0101" H 4800 5125 50  0001 C CNN
+F 1 "PWR_FLAG" V 4800 5177 50  0000 L CNN
+F 2 "" H 4800 5050 50  0001 C CNN
+F 3 "~" H 4800 5050 50  0001 C CNN
+	1    4800 5050
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5E1A494F
+P 4850 5050
+F 0 "#PWR0101" H 4850 4800 50  0001 C CNN
+F 1 "GND" V 4855 4922 50  0000 R CNN
+F 2 "" H 4850 5050 50  0001 C CNN
+F 3 "" H 4850 5050 50  0001 C CNN
+	1    4850 5050
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4850 5050 4800 5050
+$Comp
+L Connector_Generic:Conn_01x12 J1
+U 1 1 5E1911D6
+P 4600 4300
+F 0 "J1" V 4850 4300 50  0000 C CNN
+F 1 "TO_DUAL-USB_PCB" V 4750 4300 50  0000 C CNN
+F 2 "Connector_FFC-FPC:Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal" H 4600 4300 50  0001 C CNN
+F 3 "~" H 4600 4300 50  0001 C CNN
+	1    4600 4300
+	-1   0    0    1   
+$EndComp
+Connection ~ 4800 3900
+Connection ~ 4800 3700
+Connection ~ 4800 4700
+Connection ~ 4800 4300
+Text Label 6900 4300 0    50   ~ 0
+USB_A+
+Text Label 6100 4300 2    50   ~ 0
+USB_B+
+Text Label 6100 4400 2    50   ~ 0
+USB_B-
+Text Label 6900 4400 0    50   ~ 0
+USB_A-
+Text Label 6100 4500 2    50   ~ 0
+5V_B
+Text Label 6900 4500 0    50   ~ 0
+5V_A
+$EndSCHEMATC

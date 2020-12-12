@@ -1,0 +1,13 @@
+* This backpack is meant to be soldered onto the J15 header, a dual-USB header.
+--> very lightly coat the pads with solder paste or solder, then use a hot air gun to solder.
+--> a 12 pin FFC cable plugs into the combo PCB's USB header.
+--> WARNING: you MUST use the same-side-up facing FFC cable, or you can short the USB.
+
+* Note that F1 and F3 next to the J15 header are unpopulated. USB will not work without these.
+--> you should solder 1 to 1.5A polyfuses; size, SMD 1210, 3.2mm x 2.5mm.
+
+===
+
+If ya liked this project, or have an improvement in mind, send me an email at moltensolderlabs AT pm.me
+
+Cherish your little Sentinel! I love mine <3

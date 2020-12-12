@@ -1,0 +1,15 @@
+1. Print out the PDF file with *scaling DISABLED*
+2. See that horizontal line above the cutouts? Get a ruler and see it measures exactly, or very close (+/-1mm) to 7cm
+3. Tape the cutout to your DX4000 where the Windows Server COA sticker is located.
+4. Disconnect and take out the motherboard and all HDDs.
+5. Use a center punch to make dents where holes will be drilled.
+6. Use a dremel/drill/file/whatever to cut out slots for the VGA, USB, and microUSB ports, and drill holes where indicated.
+7. Solder and install the VGA, serial, USB combo PCB.
+8. ??
+9. Profit. You now have a DX4200, basically.
+
+===
+
+If ya liked this project, or have an improvement in mind, send me an email at moltensolderlabs AT pm.me
+
+Cherish your little Sentinel! I love mine <3

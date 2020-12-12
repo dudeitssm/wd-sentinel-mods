@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name dual_usb_a)(type Legacy)(uri ${KIPRJMOD}/custom_libraries/dual_usb_a.lib)(options "")(descr ""))
+)

@@ -1,0 +1,11 @@
+* This is a combo PCB that provides serial console, VGA, and dual USB2.0 support to the WD Sentinel DX4000.
+--> a 12 pin FFC cable plugs into the USB backpack PCB.
+--> a 12 pin FFC cable plugs into the VGA packpack PCB.
+--> a 4 pin JST cable plugs into the serial port, located at the front of the DX4000 motherboard.
+--> WARNING: you MUST use the same-side-up facing FFC cable, or you can short the USB or VGA.
+
+===
+
+If ya liked this project, or have an improvement in mind, send me an email at moltensolderlabs AT pm.me
+
+Cherish your little Sentinel! I love mine <3
